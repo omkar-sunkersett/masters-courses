@@ -34,8 +34,8 @@ https://www.si.umich.edu/programs/courses/665
 WINTER TERM (January - April , 2017)
 =====================================
 
-5. SI 507: Intermediate Programming
-------------------------------------
+5. SI 507: Intermediate Programming (using Python)
+---------------------------------------------------
 https://www.si.umich.edu/programs/courses/507
 
 
