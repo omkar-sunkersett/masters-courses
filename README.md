@@ -56,26 +56,22 @@ https://www.si.umich.edu/programs/courses/650
 
 
 
-COURSES TO BE TAKEN NEXT ACADEMIC YEAR ...
-===========================================
-
-
 FALL TERM (September - December , 2017)
 ========================================
 
-9. EECS 545: Machine Learning
-------------------------------
-https://www.eecs.umich.edu/eecs/academics/courses/eecs-545.html
+9. ENTR 599.030: Project Management & Consulting
+-------------------------------------------------
+http://cfe.umich.edu/course-descriptions/#entr599.020
 
 
-10. SI 561: Natural Language Processing
-----------------------------------------
-https://www.si.umich.edu/programs/courses/561
-
-
-11. SI 649: Information Visualization
+10. SI 649: Information Visualization
 --------------------------------------
 https://www.si.umich.edu/programs/courses/649
+
+
+11. SI 664: Database Application Design (using PHP & MySQL)
+------------------------------------------------------------
+https://www.si.umich.edu/programs/courses/664
 
 
 12. SI 671: Data Mining: Methods and Applications
@@ -88,12 +84,12 @@ https://www.si.umich.edu/programs/courses/671
 WINTER TERM (January - April , 2018)
 =====================================
 
-13. TO 618: Applied Business Analytics and Decisions
------------------------------------------------------
-https://michiganross.umich.edu/courses/applied-business-analytics-and-decisions-9150
+13. SI 630: Natural Language Processing: Algorithms and People
+---------------------------------------------------------------
+https://www.si.umich.edu/programs/courses/630
 
 
-14. SI 696: Big Data Analytics
--------------------------------
-https://www.si.umich.edu/programs/courses/696
+14. HS 650: Data Science and Predictive Analytics
+--------------------------------------------------
+http://www.socr.umich.edu/people/dinov/2017/Spring/DSPA_HS650/
 
